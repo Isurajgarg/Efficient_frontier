@@ -11,3 +11,10 @@ Steps Performed:-
 3.Statistical Analysis
 4.Portfolio Optimization
 5.Efficient Frontier
+
+## Python libraries used.
+
+Matplot
+Numpy
+Pandas
+Scipy 
