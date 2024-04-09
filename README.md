@@ -12,9 +12,4 @@ Steps Performed:-
 4.Portfolio Optimization
 5.Efficient Frontier
 
-## Python libraries used.
 
-Matplot
-Numpy
-Pandas
-Scipy 
